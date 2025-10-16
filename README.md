@@ -1,4 +1,5 @@
 工具包
 
 
-1.Autoencoder_Vae:基于星系数据的重建，主要研究潜在空间上的特征特点。 (VAE - z 可以随机采样，然后重建出数据）
+1.Autoencoder_Vae:基于星系数据的重建，主要研究潜在空间上的特征特点。 (VAE - z 可以随机采样，然后重建出数据）；
+2.Eucild_Astroquery.ipynb ：基于Astroquery获取Euclid的大图数据；
